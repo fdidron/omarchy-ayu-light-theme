@@ -10,7 +10,7 @@ This is the light variant of [Ayu](https://github.com/dempfi/ayu) for [Omarchy](
 To install this theme run the following command:
 
 ```bash
-omarchy-theme-install https://github.com/fdidron/omarchy-ayu-light
+omarchy-theme-install https://github.com/fdidron/omarchy-ayu-light-theme
 ```
 
 in your terminal.
