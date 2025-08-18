@@ -14,3 +14,5 @@ omarchy-theme-install https://github.com/fdidron/omarchy-ayu-light-theme
 ```
 
 in your terminal.
+
+Mirage version of tthis theme is available [here](https://github.com/fdidron/omarchy-ayu-mirage-theme).
