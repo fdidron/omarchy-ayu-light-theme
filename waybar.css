@@ -13,12 +13,12 @@
     color: @green;
 }
 
-#battery.full {
-    color: @green;
-}
-
 #battery:not(.charging) {
     color: @yellow;
+}
+
+#battery.full {
+    color: @green;
 }
 
 #battery.warning:not(.charging) {
